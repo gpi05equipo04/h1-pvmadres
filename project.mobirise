@@ -63,7 +63,7 @@
               "background-image": "url(@bg-value)"
             },
             "H2": {
-              "color": "#ff7f9f"
+              "color": "#ffffff"
             }
           },
           "_name": "content5",
